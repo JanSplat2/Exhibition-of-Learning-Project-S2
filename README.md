@@ -1,4 +1,4 @@
-This should be a future project of mine for the Exhibition of Learning! it should imitate a mail client, preferable apple's mail, where the user can acces FAKE phishing mails or normal ones. there should be buttons under the mail for the user to choose between two options; one should say that the mail is a fake or the mail is not a fake. after a wrong guess, there should be some information poping up, why the mail was fake or not fake. it should also explain the different tatics behind those social engeneering methods used.
+This is a project of mine for the Exhibition of Learning! it does imitate a mail client, preferable apple's mail, where the user can acces FAKE phishing mails or normal ones. there are buttons under the mail for the user to choose between two options; one says that the mail is a fake or the mail is not a fake. after a wrong guess, there will be some information poping up, why the mail was fake or not fake. it also explains the different tatics behind those social engeneering methods used.
 Screenshots:
 
 Example of an email with the buttons to decide:
